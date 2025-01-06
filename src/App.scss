@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+[lang="*en"]{
+    direction: ltr;
+}
+[lang="fa-IR"]{
+    direction: rtl;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    margin: 0;
+}
+//---------
+.App.light{
+    background: white;
+}
+.App.dark{
+    background: rgba(0, 0, 0, 0.849);
+}
+header{
+    background-color: rgb(113, 43, 160);
+}
+.option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,61 @@
+.recipeList{
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   gap: 40px;
+   justify-content: center;
+    .sl-reciplist{
+        min-height: 250px;
+        background: white;
+        text-align: end;
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        padding-top: 15px;
+        border-radius: 3px;
+        box-shadow: 0px 5px 10px;
+        transition: 0.4s;
+        font-size: 15px;
+        font-weight: 500;
+        overflow: hidden;
+        .title{
+            padding-left: 10px;
+        }
+        .time{
+            font-weight: 500;
+            font-size: 16px;
+            color: rgba(0, 0, 0, 0.363);
+            padding-left: 10px;
+            text-align: start;
+        }
+        .about{
+            font-size: 14px;
+            color: rgba(0, 0, 0, 0.712);
+            text-align: start;
+            padding-left: 10px;
+        }
+        .buttonn{
+            width: max-content;
+            padding: 10px 20px;
+            margin: auto;
+            outline: none;
+            background-color: rgba(0, 0, 0, 0.164);
+            color: rgba(0, 0, 0, 0.486);
+            font-weight: 500;
+            border: none;
+            text-decoration: none;
+            margin-bottom: 10px;
+            span{
+                pointer-events: none;
+            }
+        }
+    }
+    .sl-reciplist:hover{
+        transform: rotate(8deg);
+    }
+}
+.sl-reciplist.dark{
+    background: rgba(255, 255, 255, 0.247) ;
+}
+.sl-reciplist.light{
+    background: rgb(255, 255, 255) ;
+}
