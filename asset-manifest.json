@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MultiFood/static/css/main.be742c34.css",
+    "main.js": "/MultiFood/static/js/main.a8ae6174.js",
+    "index.html": "/MultiFood/index.html",
+    "main.be742c34.css.map": "/MultiFood/static/css/main.be742c34.css.map",
+    "main.a8ae6174.js.map": "/MultiFood/static/js/main.a8ae6174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be742c34.css",
+    "static/js/main.a8ae6174.js"
+  ]
+}
