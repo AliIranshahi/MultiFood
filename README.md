@@ -1,5 +1,4 @@
-توجه ** =>   برای مشاهده این پروژه به صورت page حتما از vpn یا dns استفاده کنید ! ( Contain FireBase )
-
+توجه ** =>   برای مشاهده این پروژه به صورت page حتما از vpn یا dns استفاده کنید ! ( Contain FireBase ) https://aliiranshahi.github.io/MultiFood/
 
 
 
